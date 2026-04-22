@@ -52,7 +52,7 @@ Duration values are recorded as character strings in `H:MM` format and were conv
 
 ### Statistical analysis
 
-Frequency and cumulative count analyses were conducted in R (version 4.3) using dplyr [@dplyr] for data manipulation and ggplot2 [@ggplot2] for figure generation. Duration-based analyses were conducted in Python using pandas and matplotlib. No inferential statistics were applied; results are reported as counts, totals, and cumulative sums.
+Frequency and cumulative count analyses were conducted in R (version 4.4) using dplyr [@dplyr] for data manipulation and ggplot2 [@ggplot2] for figure generation. Duration-based analyses were conducted in Python using pandas and matplotlib. No inferential statistics were applied; results are reported as counts, totals, and cumulative sums.
 
 ### Data and code availability
 
